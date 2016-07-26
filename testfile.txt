@@ -1,4 +1,6 @@
 # create test file 
 # checkout master
 # merge no conflict & conflict
+# b1
+# info
 
