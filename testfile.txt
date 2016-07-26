@@ -1,5 +1,11 @@
 # create test file 
 # checkout master
 # merge no conflict & conflict
+<<<<<<< HEAD
 # push to origin
+=======
+# b1
+# info
+# push
+>>>>>>> b1
 
