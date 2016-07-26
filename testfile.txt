@@ -1,3 +1,4 @@
 # create test file 
 # checkout master
-# merge no conflict
+# merge no conflict & conflict
+
