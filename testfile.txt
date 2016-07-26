@@ -8,5 +8,9 @@
 # info
 # push
 >>>>>>> b1
+<<<<<<< Updated upstream
 # hot fix
+=======
+# stash
+>>>>>>> Stashed changes
 
